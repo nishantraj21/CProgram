@@ -1,2 +1,6 @@
 Hello,
 this text format is designed to test the file handling program.
+
+Note: 
+**POINTER**
+    -->The size of pointer remains constant regardless of data types(int*, char*, float*,etc.) = 8 byte
